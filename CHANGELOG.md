@@ -1,4 +1,40 @@
 
+## v3.0.0
+
+[compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.2.1...v3.0.0)
+
+### 🚀 Enhancements
+
+- Valami 2 ([fa3c052](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/commit/fa3c052))
+
+### ❤️ Contributors
+
+- Peter Buglavecz <buggio.dev@gmail.com>
+
+## v0.2.3
+
+[compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.2.1...v0.2.3)
+
+### 🚀 Enhancements
+
+- Valami 2 ([fa3c052](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/commit/fa3c052))
+
+### ❤️ Contributors
+
+- Peter Buglavecz <buggio.dev@gmail.com>
+
+## v0.2.2
+
+[compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.2.1...v0.2.2)
+
+### 🚀 Enhancements
+
+- Valami 2 ([fa3c052](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/commit/fa3c052))
+
+### ❤️ Contributors
+
+- Peter Buglavecz <buggio.dev@gmail.com>
+
 ## v0.2.1
 
 [compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.2.0...v0.2.1)
