@@ -1,0 +1,24 @@
+name: Release Branch Merge
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  check_release_merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Check if 'release' word is in merge commit message
+      run: |
+        if [[ $(git log --merges -1 --pretty=%B) == *"release"* ]]; then
+          echo "Release word found in merge commit message."
+          # Ide írd be azokat a parancsokat vagy lépéseket, amelyeket végrehajtasz,
+          # ha a merge commit üzenete tartalmazza a 'release' szót.
+        else
+          echo "Release word not found in merge commit message."
+        fi
