@@ -1,5 +1,8 @@
 {
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buglavecz/nuxt3-bootstrap4-starter-template"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
