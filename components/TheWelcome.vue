@@ -8,7 +8,7 @@
       Hello Visitor!
     </div>
     <div class="test-class mb-3 fwb">
-      Lorem ipsum 1
+      Lorem ipsum 12
     </div>
     <div :class="$style.text">
       Lorem ipsum 2
