@@ -1,4 +1,16 @@
 
+## v0.2.0
+
+[compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.1.0...v0.2.0)
+
+### 🚀 Enhancements
+
+- Valami ([15952cf](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/commit/15952cf))
+
+### ❤️ Contributors
+
+- Peter Buglavecz <buggio.dev@gmail.com>
+
 ## v0.1.0
 
 [compare changes](https://github.com/buglavecz/nuxt3-bootstrap4-starter-template/compare/v0.0.2...v0.1.0)
